@@ -4,7 +4,7 @@
  
  Public link of Dashboard: https://public.tableau.com/views/ElectricVehicleanalyticsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
- Public lino of Story : https://public.tableau.com/views/StoryofEvcarsinIndia/StoryofElectricCarsinIndia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ Public link of Story : https://public.tableau.com/views/StoryofEvcarsinIndia/StoryofElectricCarsinIndia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
  Demo Video: https://drive.google.com/file/d/1o9APmor-Gh0EVpu8BlemywNag0KnMLhq/view?usp=sharing
 
