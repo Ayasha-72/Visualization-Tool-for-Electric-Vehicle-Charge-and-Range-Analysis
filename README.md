@@ -6,7 +6,7 @@
 
  Public link of Story : https://public.tableau.com/views/StoryofEvcarsinIndia/StoryofElectricCarsinIndia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
- Demo Video: https://drive.google.com/file/d/1o9APmor-Gh0EVpu8BlemywNag0KnMLhq/view?usp=sharing
+ Demo Video link : https://drive.google.com/file/d/15aGHrBHkj3RjXQIgyfV_scqYwvfIRp84/view?usp=sharing
 
  Datasets Link : https://drive.google.com/drive/folders/1Hy6Nc-dbugtlD3SNQA5aavnAisCJ_1j6?usp=drive_link
 
